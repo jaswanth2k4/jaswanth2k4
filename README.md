@@ -51,7 +51,7 @@ using machine learning and concept-drift detection.
 
 **Publication:** IEEE ICOECA 2026
 
-🔗 **[View Repository](YOUR_AEOF_REPOSITORY_LINK)**
+🔗 **[View Repository](https://github.com/jaswanth2k4/AEOF-Adaptive-Evolving-Online-Firewall)**
 
 ---
 
@@ -69,7 +69,7 @@ truck platooning for logistics planning.
 
 **Publication:** ICT 2025
 
-🔗 **[View Repository](YOUR_TRUCK_PLATOONING_REPOSITORY_LINK)**
+🔗 **[View Repository](https://github.com/jaswanth2k4/Truck-Platooning-Route-Optimization)**
 
 ---
 
@@ -88,7 +88,7 @@ End-to-end machine learning pipeline for hypothyroidism prediction.
 
 **Publication:** IEEE ICECMSN 2025
 
-🔗 **[View Repository](YOUR_HYPOTHYROIDISM_REPOSITORY_LINK)**
+🔗 **[View Repository](https://github.com/jaswanth2k4/Hypothyroidism-Prediction)**
 
 ---
 
@@ -106,7 +106,7 @@ meteorological variables.
 - Evaluated Random Forest, XGBoost, and LSTM models.
 - Random Forest achieved 83.37% classification accuracy.
 
-🔗 **[View Repository](YOUR_SUGARCANE_REPOSITORY_LINK)**
+🔗 **[View Repository](https://github.com/jaswanth2k4/Sugarcane-Crop-Phenology-Analysis)**
 
 ---
 
@@ -124,7 +124,7 @@ distorted text and evaluate robustness against adversarial CAPTCHA samples.
 
 **Publication:** IEEE IC2NC 2025
 
-🔗 **[View Repository](YOUR_CAPTCHA_REPOSITORY_LINK)**
+🔗 **[View Repository](https://github.com/jaswanth2k4/Advanced-Captcha-Verification)**
 
 ---
 
